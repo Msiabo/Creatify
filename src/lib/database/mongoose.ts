@@ -1,4 +1,4 @@
-/* eslint-disable no-explicit-any*/
+
 
 import mongoose, { Mongoose } from 'mongoose';
 
